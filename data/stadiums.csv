@@ -1,0 +1,245 @@
+,Team,Stadium,Lat,Lon
+0,England national football team,https://en.wikipedia.org/wiki/Wembley_Stadium,51.555833,-0.279722
+1,Manchester United,https://en.wikipedia.org/wiki/Old_Trafford,53.463056,-2.291389
+2,Tottenham Hotspur,https://en.wikipedia.org/wiki/Tottenham_Hotspur_Stadium,51.604444,-0.066389
+3,Arsenal,https://en.wikipedia.org/wiki/Emirates_Stadium,51.555,-0.108611
+4,West Ham United,https://en.wikipedia.org/wiki/London_Stadium,51.538611,-0.016389
+5,Manchester City,https://en.wikipedia.org/wiki/City_of_Manchester_Stadium,53.483056,-2.200278
+6,Liverpool,https://en.wikipedia.org/wiki/Anfield,53.430828,-2.960847
+7,Newcastle United,https://en.wikipedia.org/wiki/St_James%27_Park,54.975556,-1.621667
+8,Sunderland,https://en.wikipedia.org/wiki/Stadium_of_Light,54.914444,-1.388333
+9,Aston Villa,https://en.wikipedia.org/wiki/Villa_Park,52.509167,-1.884722
+10,Chelsea,https://en.wikipedia.org/wiki/Stamford_Bridge_(stadium),51.481667,-0.191111
+11,Sheffield Wednesday,https://en.wikipedia.org/wiki/Hillsborough_Stadium,53.411389,-1.500556
+12,Everton,https://en.wikipedia.org/wiki/Goodison_Park,53.438889,-2.966389
+13,Leeds United,https://en.wikipedia.org/wiki/Elland_Road,53.777778,-1.572222
+14,Middlesbrough,https://en.wikipedia.org/wiki/Riverside_Stadium,54.578333,-1.216944
+15,Derby County,https://en.wikipedia.org/wiki/Pride_Park_Stadium,52.915,-1.447222
+16,Sheffield United,https://en.wikipedia.org/wiki/Bramall_Lane,53.370278,-1.470833
+17,Southampton,https://en.wikipedia.org/wiki/St_Mary%27s_Stadium,50.905833,-1.391111
+18,Leicester City,https://en.wikipedia.org/wiki/King_Power_Stadium,52.620278,-1.142222
+19,Wolverhampton Wanderers,https://en.wikipedia.org/wiki/Molineux_Stadium,52.590278,-2.130278
+20,Blackburn Rovers,https://en.wikipedia.org/wiki/Ewood_Park,53.728611,-2.489167
+21,Brighton & Hove Albion,https://en.wikipedia.org/wiki/Falmer_Stadium,50.861822,-0.083278
+22,Milton Keynes Dons,https://en.wikipedia.org/wiki/Stadium_mk,52.009444,-0.733333
+23,Nottingham Forest,https://en.wikipedia.org/wiki/City_Ground,52.94,-1.132778
+24,Ipswich Town,https://en.wikipedia.org/wiki/Portman_Road,52.055061,1.144831
+25,Stoke City,https://en.wikipedia.org/wiki/Bet365_Stadium,52.988333,-2.175556
+26,Birmingham City,https://en.wikipedia.org/wiki/St_Andrew%27s_(stadium),52.475703,-1.868189
+27,Bolton Wanderers,https://en.wikipedia.org/wiki/University_of_Bolton_Stadium,53.580556,-2.535556
+28,Norwich City,https://en.wikipedia.org/wiki/Carrow_Road,52.622128,1.308653
+29,Charlton Athletic,https://en.wikipedia.org/wiki/The_Valley_(London),51.486389,0.036389
+30,West Bromwich Albion,https://en.wikipedia.org/wiki/The_Hawthorns,52.509167,-1.963889
+31,Bristol City,https://en.wikipedia.org/wiki/Ashton_Gate_Stadium,51.44,-2.620278
+32,Crystal Palace,https://en.wikipedia.org/wiki/Selhurst_Park,51.398333,-0.085556
+33,Fulham,https://en.wikipedia.org/wiki/Craven_Cottage,51.475,-0.221667
+34,Hull City,https://en.wikipedia.org/wiki/KCOM_Stadium,53.746111,-0.367778
+35,Wigan Athletic,https://en.wikipedia.org/wiki/DW_Stadium,53.547778,-2.653889
+36,Bradford City,https://en.wikipedia.org/wiki/Valley_Parade,53.804167,-1.758889
+37,Reading,https://en.wikipedia.org/wiki/Madejski_Stadium,51.422222,-0.982778
+38,Huddersfield Town,https://en.wikipedia.org/wiki/Kirklees_Stadium,53.654167,-1.768333
+39,Preston North End,https://en.wikipedia.org/wiki/Deepdale,53.772222,-2.688056
+40,Barnsley,https://en.wikipedia.org/wiki/Oakwell,53.552222,-1.4675
+41,Watford,https://en.wikipedia.org/wiki/Vicarage_Road,51.649836,-0.401486
+42,Burnley,https://en.wikipedia.org/wiki/Turf_Moor,53.789167,-2.230278
+43,Portsmouth,https://en.wikipedia.org/wiki/Fratton_Park,50.796389,-1.063889
+44,Millwall,https://en.wikipedia.org/wiki/The_Den,51.485953,-0.05095
+45,Notts County,https://en.wikipedia.org/wiki/Meadow_Lane,52.9425,-1.137222
+46,Port Vale,https://en.wikipedia.org/wiki/Vale_Park,53.049722,-2.1925
+47,Queens Park Rangers,https://en.wikipedia.org/wiki/Loftus_Road,51.509167,-0.232222
+48,Carlisle United,https://en.wikipedia.org/wiki/Brunton_Park,54.895556,-2.913611
+49,Blackpool,https://en.wikipedia.org/wiki/Bloomfield_Road,53.804722,-3.048056
+50,Tranmere Rovers,https://en.wikipedia.org/wiki/Prenton_Park,53.373611,-3.0325
+51,Swindon Town,"https://en.wikipedia.org/wiki/County_Ground,_Swindon",51.564444,-1.770556
+52,Peterborough United,https://en.wikipedia.org/wiki/London_Road_Stadium,52.564697,-0.240406
+53,Doncaster Rovers,https://en.wikipedia.org/wiki/Keepmoat_Stadium,53.509722,-1.113889
+54,Oldham Athletic,https://en.wikipedia.org/wiki/Boundary_Park,53.555278,-2.128611
+55,Plymouth Argyle,https://en.wikipedia.org/wiki/Home_Park,50.388056,-4.150833
+56,Brentford,https://en.wikipedia.org/wiki/Griffin_Park,51.488183,-0.302639
+57,Oxford United,https://en.wikipedia.org/wiki/Kassam_Stadium,51.716419,-1.208067
+58,Southend United,https://en.wikipedia.org/wiki/Roots_Hall,51.549017,0.701558
+59,Bristol Rovers,https://en.wikipedia.org/wiki/Memorial_Stadium_(Bristol),51.486111,-2.583056
+60,Rotherham,https://en.wikipedia.org/wiki/New_York_Stadium,53.427778,-1.361944
+61,Gateshead,https://en.wikipedia.org/wiki/Gateshead_International_Stadium,54.961111,-1.579722
+62,Bury,https://en.wikipedia.org/wiki/Gigg_Lane,53.580506,-2.294822
+63,Gillingham,https://en.wikipedia.org/wiki/Priestfield_Stadium,51.38425,0.560753
+64,Bournemouth,https://en.wikipedia.org/wiki/Dean_Court,50.735278,-1.838333
+65,Walsall,https://en.wikipedia.org/wiki/Bescot_Stadium,52.565556,-1.990833
+66,Stockport County,https://en.wikipedia.org/wiki/Edgeley_Park,53.399722,-2.166389
+67,Halifax Town,https://en.wikipedia.org/wiki/The_Shay,53.716111,-1.859167
+68,Chesterfield,https://en.wikipedia.org/wiki/Proact_Stadium,53.253575,-1.425769
+69,Luton Town,https://en.wikipedia.org/wiki/Kenilworth_Road,51.884167,-0.431667
+70,Wycombe Wanderers,https://en.wikipedia.org/wiki/Adams_Park,51.630556,-0.800278
+71,Rochdale,https://en.wikipedia.org/wiki/Spotland_Stadium,53.620833,-2.18
+72,Lincoln City,https://en.wikipedia.org/wiki/Sincil_Bank,53.218289,-0.540811
+73,Colchester United,https://en.wikipedia.org/wiki/Colchester_Community_Stadium,51.923333,0.897778
+74,Crewe Alexandra,https://en.wikipedia.org/wiki/Alexandra_Stadium,53.087419,-2.435747
+0,Milan and Internazionale,https://en.wikipedia.org/wiki/San_Siro,45.478056,9.123889
+1,Roma and Lazio,https://en.wikipedia.org/wiki/Stadio_Olimpico,41.933886,12.454786
+2,Bari,https://en.wikipedia.org/wiki/Stadio_San_Nicola,41.084736,16.840072
+3,Napoli,https://en.wikipedia.org/wiki/Stadio_San_Paolo,40.828056,14.193056
+4,Fiorentina,https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi_(Florence),43.780822,11.282258
+5,Juventus,https://en.wikipedia.org/wiki/Juventus_Stadium,45.109444,7.641111
+6,Lecce,https://en.wikipedia.org/wiki/Stadio_Via_del_Mare,40.365278,18.208889
+7,Chievo and Verona,https://en.wikipedia.org/wiki/Stadio_Marc%27Antonio_Bentegodi,45.435356,10.968647
+8,Messina,https://en.wikipedia.org/wiki/Stadio_San_Filippo,38.161389,15.520833
+9,Bologna,https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara,44.492314,11.309667
+10,Genoa and Sampdoria,https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris,44.416431,8.952428
+11,Palermo,https://en.wikipedia.org/wiki/Stadio_Renzo_Barbera,38.152767,13.342275
+12,Triestina,https://en.wikipedia.org/wiki/Stadio_Nereo_Rocco,45.6225,13.792778
+13,Padova,https://en.wikipedia.org/wiki/Stadio_Euganeo,45.432222,11.858333
+14,Salernitana,https://en.wikipedia.org/wiki/Stadio_Arechi,40.645,14.823889
+16,Perugia,https://en.wikipedia.org/wiki/Stadio_Renato_Curi,43.106111,12.357222
+17,Torino,https://en.wikipedia.org/wiki/Stadio_Olimpico_Grande_Torino,45.04175,7.650014
+18,Taranto,https://en.wikipedia.org/wiki/Stadio_Erasmo_Iacovone,40.452778,17.27
+19,Reggina,https://en.wikipedia.org/wiki/Stadio_Oreste_Granillo,38.092778,15.635278
+20,Atalanta and AlbinoLeffe,https://en.wikipedia.org/wiki/Stadio_Atleti_Azzurri_d%27Italia,45.708889,9.680833
+21,Avellino,https://en.wikipedia.org/wiki/Stadio_Partenio-Adriano_Lombardi,40.926944,14.7925
+22,Benevento,https://en.wikipedia.org/wiki/Stadio_Ciro_Vigorito,41.116389,14.781111
+23,Udinese,https://en.wikipedia.org/wiki/Stadio_Friuli,46.081667,13.2
+24,Foggia,https://en.wikipedia.org/wiki/Stadio_Pino_Zaccheria,41.454444,15.5425
+25,Pisa,https://en.wikipedia.org/wiki/Arena_Garibaldi_-_Stadio_Romeo_Anconetani,43.725278,10.4
+26,Cosenza,https://en.wikipedia.org/wiki/Stadio_San_Vito,39.31,16.231111
+27,Ancona,https://en.wikipedia.org/wiki/Stadio_del_Conero,43.563889,13.526111
+28,Cesena,https://en.wikipedia.org/wiki/Stadio_Dino_Manuzzi,44.140556,12.261944
+29,Sassuolo and Reggiana,https://en.wikipedia.org/wiki/Mapei_Stadium_%E2%80%93_Citt%C3%A0_del_Tricolore,44.714722,10.649722
+30,Catania,https://en.wikipedia.org/wiki/Stadio_Angelo_Massimino,37.515833,15.071389
+31,Parma,https://en.wikipedia.org/wiki/Stadio_Ennio_Tardini,44.794917,10.338444
+32,Sambenedettese,https://en.wikipedia.org/wiki/Stadio_Riviera_delle_Palme,42.930556,13.884722
+33,Piacenza,https://en.wikipedia.org/wiki/Stadio_Leonardo_Garilli,45.029722,9.689722
+34,Modena,https://en.wikipedia.org/wiki/Stadio_Alberto_Braglia,44.653611,10.923333
+35,Cremonese,https://en.wikipedia.org/wiki/Stadio_Giovanni_Zini,45.140278,10.034722
+36,Ascoli,https://en.wikipedia.org/wiki/Stadio_Cino_e_Lillo_Del_Duca,42.861111,13.594167
+37,Pescara,https://en.wikipedia.org/wiki/Stadio_Adriatico,42.455278,14.229444
+38,Livorno,https://en.wikipedia.org/wiki/Stadio_Armando_Picchi,43.526667,10.314167
+39,Monza,https://en.wikipedia.org/wiki/Stadio_Brianteo,45.582778,9.308056
+40,Novara,https://en.wikipedia.org/wiki/Stadio_Silvio_Piola_(Novara),45.435833,8.595833
+41,Ternana,https://en.wikipedia.org/wiki/Stadio_Libero_Liberati,42.562222,12.635278
+42,Brescia,https://en.wikipedia.org/wiki/Stadio_Mario_Rigamonti,45.570556,10.236944
+43,Crotone,https://en.wikipedia.org/wiki/Stadio_Ezio_Scida,39.079167,17.116667
+44,Empoli,https://en.wikipedia.org/wiki/Stadio_Carlo_Castellani,43.726389,10.955
+45,Cagliari,https://en.wikipedia.org/wiki/Sardegna_Arena,39.2,9.1375
+46,SPAL,https://en.wikipedia.org/wiki/Stadio_Paolo_Mazza,44.839722,11.6075
+47,Frosinone,https://en.wikipedia.org/wiki/Stadio_Benito_Stirpe,41.634167,13.321944
+48,Siena,https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi_-_Montepaschi_Arena,43.321667,11.326111
+49,Mantova,https://en.wikipedia.org/wiki/Stadio_Danilo_Martelli,45.146111,10.794167
+51,Como,https://en.wikipedia.org/wiki/Stadio_Giuseppe_Sinigaglia,45.813889,9.072222
+52,Pistoiese,https://en.wikipedia.org/wiki/Stadio_Marcello_Melani,43.940833,10.914722
+53,Arezzo,https://en.wikipedia.org/wiki/Stadio_Citt%C3%A0_di_Arezzo,43.451111,11.894444
+54,Vicenza,https://en.wikipedia.org/wiki/Stadio_Romeo_Menti,45.544167,11.555556
+55,Juve Stabia,https://en.wikipedia.org/wiki/Stadio_Romeo_Menti_(Castellammare_di_Stabia),40.706667,14.494444
+56,Cavese,https://en.wikipedia.org/wiki/Stadio_Simonetta_Lamberti,40.709722,14.7025
+57,Ravenna,https://en.wikipedia.org/wiki/Stadio_Bruno_Benelli,44.406389,12.194722
+60,Sassari,https://en.wikipedia.org/wiki/Stadio_Vanni_Sanna,40.718056,8.579722
+61,Spezia Calcio,https://en.wikipedia.org/wiki/Stadio_Alberto_Picco,44.102222,9.808611
+62,Inter (1930–1958),https://en.wikipedia.org/wiki/Arena_Civica,45.475833,9.179167
+63,Treviso,https://en.wikipedia.org/wiki/Stadio_Omobono_Tenni,45.67,12.255833
+0,Barcelona,https://en.wikipedia.org/wiki/Camp_Nou,41.380833,2.122778
+1,Real Madrid,https://en.wikipedia.org/wiki/Santiago_Bernab%C3%A9u_Stadium,40.453056,-3.688333
+2,Atlético Madrid,https://en.wikipedia.org/wiki/Wanda_Metropolitano,40.436111,-3.599444
+3,Real Betis,https://en.wikipedia.org/wiki/Estadio_Benito_Villamar%C3%ADn,37.356389,-5.981389
+6,Valencia,https://en.wikipedia.org/wiki/Estadio_Mestalla,39.474656,-0.358361
+7,Athletic Bilbao,https://en.wikipedia.org/wiki/San_Mam%C3%A9s_Stadium_(2013),43.264167,-2.950278
+8,Sevilla,https://en.wikipedia.org/wiki/Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n,37.383889,-5.970556
+9,Espanyol,https://en.wikipedia.org/wiki/RCDE_Stadium,41.347861,2.075667
+10,Real Sociedad,https://en.wikipedia.org/wiki/Estadio_Anoeta,43.301378,-1.973617
+11,Zaragoza,https://en.wikipedia.org/wiki/La_Romareda,41.636592,-0.901822
+12,Elche,https://en.wikipedia.org/wiki/Estadio_Manuel_Mart%C3%ADnez_Valero,38.266944,-0.663333
+14,Deportivo La Coruña,https://en.wikipedia.org/wiki/Estadio_Riazor,43.368611,-8.4175
+15,Murcia,https://en.wikipedia.org/wiki/Estadio_Nueva_Condomina,38.042222,-1.144722
+16,Oviedo,https://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere,43.360833,-5.870278
+17,Málaga,https://en.wikipedia.org/wiki/Estadio_La_Rosaleda,36.734167,-4.426667
+18,Hércules,https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Rico_P%C3%A9rez,38.357222,-0.4925
+19,Sporting Gijón,https://en.wikipedia.org/wiki/El_Molin%C3%B3n,43.536111,-5.637222
+20,Celta Vigo,https://en.wikipedia.org/wiki/Estadio_Bala%C3%ADdos,42.211944,-8.739722
+21,Valladolid,https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Zorrilla,41.644444,-4.761111
+22,Levante,https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Valencia,39.494722,-0.364167
+23,Cádiz,https://en.wikipedia.org/wiki/Estadio_Ram%C3%B3n_de_Carranza,36.502778,-6.273056
+24,Villarreal,https://en.wikipedia.org/wiki/Estadio_de_la_Cer%C3%A1mica,39.944167,-0.103611
+25,Mallorca,https://en.wikipedia.org/wiki/Estadi_de_Son_Moix,39.59,2.63
+26,Tenerife,https://en.wikipedia.org/wiki/Estadio_Heliodoro_Rodr%C3%ADguez_L%C3%B3pez,28.463056,-16.260556
+27,Racing Santander,https://en.wikipedia.org/wiki/Estadio_El_Sardinero,43.476389,-3.793333
+28,Recreativo,https://en.wikipedia.org/wiki/Estadio_Nuevo_Colombino,37.246389,-6.954167
+29,Almería,https://en.wikipedia.org/wiki/Estadio_de_los_Juegos_Mediterr%C3%A1neos,36.84,-2.435278
+30,Córdoba,https://en.wikipedia.org/wiki/Estadio_Nuevo_Arc%C3%A1ngel,37.872294,-4.764642
+31,Xerez,https://en.wikipedia.org/wiki/Estadio_Municipal_de_Chap%C3%ADn,36.689167,-6.120278
+32,Linense,https://en.wikipedia.org/wiki/Estadio_Municipal_de_La_L%C3%ADnea_de_la_Concepci%C3%B3n,36.1585,-5.34025
+33,Alavés,https://en.wikipedia.org/wiki/Estadio_Mendizorrotza,42.837111,-2.688044
+34,Granada,https://en.wikipedia.org/wiki/Estadio_Nuevo_Los_C%C3%A1rmenes,37.152967,-3.595736
+35,Osasuna,https://en.wikipedia.org/wiki/El_Sadar,42.796667,-1.636944
+36,Albacete,https://en.wikipedia.org/wiki/Estadio_Carlos_Belmonte,38.981117,-1.852142
+37,Getafe,https://en.wikipedia.org/wiki/Coliseum_Alfonso_P%C3%A9rez,40.325556,-3.714722
+38,Salmantino,https://en.wikipedia.org/wiki/Estadio_El_Helm%C3%A1ntico,40.995278,-5.665
+39,UD LogroñésSD Logroñés,https://en.wikipedia.org/wiki/Estadio_Las_Gaunas,42.453333,-2.453333
+40,Barcelona B,https://en.wikipedia.org/wiki/Mini_Estadi,41.379722,2.118056
+41,Badajoz,https://en.wikipedia.org/wiki/Estadio_Nuevo_Vivero,38.858922,-7.005886
+42,Cartagena,https://en.wikipedia.org/wiki/Estadio_Cartagonova,37.609722,-0.996111
+43,Mérida,https://en.wikipedia.org/wiki/Estadio_Romano,38.913933,-6.336406
+44,Rayo Vallecano,https://en.wikipedia.org/wiki/Campo_de_F%C3%BAtbol_de_Vallecas,40.391944,-3.658961
+45,Castellón,https://en.wikipedia.org/wiki/Nou_Estadi_Castalia,39.996053,-0.038792
+46,Girona,https://en.wikipedia.org/wiki/Estadi_Montilivi,41.961389,2.828611
+48,Lleida Esportiu,https://en.wikipedia.org/wiki/Estadio_Camp_d%27Esports,41.621267,0.614147
+49,Cultural Leonesa,https://en.wikipedia.org/wiki/Estadio_Reino_de_Le%C3%B3n,42.5875,-5.576667
+50,BurgosReal Burgos,https://en.wikipedia.org/wiki/Estadio_El_Plant%C3%ADo,42.344167,-3.680556
+51,Jaén,https://en.wikipedia.org/wiki/Estadio_Nuevo_La_Victoria,37.776111,-3.786944
+52,Pontevedra,https://en.wikipedia.org/wiki/Estadio_Pasar%C3%B3n,42.438056,-8.641111
+53,Almería (rugby),https://en.wikipedia.org/wiki/Estadio_Municipal_Juan_Rojas,36.861944,-2.445278
+54,Leganés,https://en.wikipedia.org/wiki/Estadio_Municipal_de_Butarque,40.340278,-3.760833
+55,Cisneros (rugby),https://en.wikipedia.org/wiki/Estadio_Nacional_Complutense,40.437778,-3.728611
+56,Racing Ferrol,https://en.wikipedia.org/wiki/Estadio_de_la_Malata,43.491258,-8.239017
+57,Melilla,https://en.wikipedia.org/wiki/Estadio_%C3%81lvarez_Claro,35.285,-2.949444
+58,Linares,https://en.wikipedia.org/wiki/Estadio_Linarejos,38.103056,-3.623056
+59,Gimnàstic,https://en.wikipedia.org/wiki/Nou_Estadi_de_Tarragona,41.126944,1.272778
+60,Compostela,https://en.wikipedia.org/wiki/Estadio_Vero_Boquete_de_San_L%C3%A1zaro,42.882767,-8.516014
+61,Sabadell,https://en.wikipedia.org/wiki/Estadi_de_la_Nova_Creu_Alta,41.554722,2.091944
+62,Extremadura,https://en.wikipedia.org/wiki/Estadio_Francisco_de_la_Hera,38.684411,-6.414606
+63,Terrassa,https://en.wikipedia.org/wiki/Estadi_Ol%C3%ADmpic_de_Terrassa,41.576133,2.011142
+64,Gijón Mariners (American football)CSI Gijón (horse jumping),https://en.wikipedia.org/wiki/Las_Mestas_Sports_Complex,43.531667,-5.635833
+65,Tudelano,https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Tudela,42.0575,-1.611944
+67,San Fernando,https://en.wikipedia.org/wiki/Estadio_Iberoamericano,36.47,-6.207222
+0,Borussia Dortmund,https://en.wikipedia.org/wiki/Westfalenstadion,51.492569,7.451842
+1,FC Bayern Munich,https://en.wikipedia.org/wiki/Allianz_Arena,48.218775,11.624753
+2,Hertha BSC,https://en.wikipedia.org/wiki/Olympiastadion_(Berlin),52.514722,13.239444
+3,FC Schalke 04,https://en.wikipedia.org/wiki/Arena_AufSchalke,51.554503,7.067589
+4,VfB Stuttgart,https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Stuttgart),48.792269,9.232031
+5,—,https://en.wikipedia.org/wiki/Olympiastadion_(Munich),48.173056,11.546667
+6,Hamburger SV,https://en.wikipedia.org/wiki/Volksparkstadion,53.587158,9.898617
+7,Fortuna Düsseldorf,https://en.wikipedia.org/wiki/Merkur_Spiel-Arena,51.261667,6.733056
+8,Borussia Mönchengladbach,https://en.wikipedia.org/wiki/Borussia-Park,51.174583,6.385464
+9,Eintracht Frankfurt,https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt),50.068611,8.645278
+10,1. FC Nürnberg,https://en.wikipedia.org/wiki/Max-Morlock-Stadion,49.426111,11.125833
+11,1. FC Köln,https://en.wikipedia.org/wiki/M%C3%BCngersdorfer_Stadion,50.933497,6.874997
+12,1. FC Kaiserslautern,https://en.wikipedia.org/wiki/Fritz-Walter-Stadion,49.434722,7.776667
+13,Hannover 96,https://en.wikipedia.org/wiki/Niedersachsenstadion,52.360067,9.731197
+14,RB Leipzig,https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig),51.345794,12.348219
+15,SV Werder Bremen,https://en.wikipedia.org/wiki/Weser-Stadion,53.066394,8.837628
+16,1. FC Saarbrücken,https://en.wikipedia.org/wiki/Ludwigsparkstadion,49.2475,6.984167
+17,KFC Uerdingen 05,https://en.wikipedia.org/wiki/Grotenburg-Stadion,51.338889,6.603611
+18,1. FSV Mainz 05,https://en.wikipedia.org/wiki/Opel_Arena_(stadium),49.984167,8.224167
+19,Alemannia Aachen,https://en.wikipedia.org/wiki/New_Tivoli,50.793333,6.097222
+20,Dynamo Dresden,https://en.wikipedia.org/wiki/Rudolf-Harbig-Stadion,51.040278,13.747778
+21,MSV Duisburg,https://en.wikipedia.org/wiki/MSV-Arena,51.409033,6.778664
+22,FC Augsburg,https://en.wikipedia.org/wiki/Augsburg_Arena,48.323139,10.886
+23,Bayer 04 Leverkusen,https://en.wikipedia.org/wiki/BayArena,51.038256,7.002206
+24,TSG 1899 Hoffenheim,https://en.wikipedia.org/wiki/Rhein-Neckar-Arena,49.238083,8.887611
+25,VfL Wolfsburg,https://en.wikipedia.org/wiki/Volkswagen_Arena,52.432639,10.803889
+26,Karlsruher SC,https://en.wikipedia.org/wiki/Wildparkstadion,49.02,8.413056
+27,FC St.Pauli,https://en.wikipedia.org/wiki/Millerntor-Stadion,53.554583,9.967667
+28,F.C. Hansa Rostock,https://en.wikipedia.org/wiki/Ostseestadion,54.08495,12.095189
+29,VfL Bochum,https://en.wikipedia.org/wiki/Ruhrstadion,51.489881,7.236544
+30,Arminia Bielefeld,https://en.wikipedia.org/wiki/Bielefelder_Alm,52.031944,8.516667
+31,1. FC Magdeburg,https://en.wikipedia.org/wiki/MDCC-Arena,52.125556,11.670833
+32,SV Waldhof Mannheim,https://en.wikipedia.org/wiki/Carl-Benz-Stadion,49.479444,8.5025
+33,SC Freiburg,https://en.wikipedia.org/wiki/Schwarzwald-Stadion,47.988889,7.893056
+34,Borussia Neunkirchen,https://en.wikipedia.org/wiki/Ellenfeldstadion,49.336667,7.179722
+35,Eintracht Braunschweig,https://en.wikipedia.org/wiki/Eintracht-Stadion,52.29,10.521667
+36,Wuppertaler SV,https://en.wikipedia.org/wiki/Stadion_am_Zoo,51.239083,7.105083
+37,Energie Cottbus,https://en.wikipedia.org/wiki/Stadion_der_Freundschaft_(Cottbus),51.751389,14.345556
+38,1. FC Union Berlin,https://en.wikipedia.org/wiki/Stadion_An_der_Alten_F%C3%B6rsterei,52.457222,13.568056
+39,FC 08 Homburg,https://en.wikipedia.org/wiki/Waldstadion_Homburg,49.316111,7.355
+40,SpVgg Bayreuth,https://en.wikipedia.org/wiki/Hans-Walter-Wild-Stadion,49.945278,11.586944
+41,Rot-Weiß Oberhausen,https://en.wikipedia.org/wiki/Niederrheinstadion,51.493611,6.854444
+42,TSV 1860 Munich,https://en.wikipedia.org/wiki/Gr%C3%BCnwalder_Stadion,48.110833,11.574444
+43,Rot-Weiss Essen,https://en.wikipedia.org/wiki/Stadion_Essen,51.486667,6.976389
+44,Kickers Offenbach,https://en.wikipedia.org/wiki/Sparda-Bank-Hessen-Stadion,50.094444,8.798611
+45,SV Dessau 05,https://en.wikipedia.org/wiki/Paul_Greifzu_Stadium,51.823889,12.251667
